@@ -1,4 +1,4 @@
-# MustRead
+# Repo
 ## 레포 순서 규칙
 KpmgFuture-Academy 레포 순서 규칙 입니다.
 
